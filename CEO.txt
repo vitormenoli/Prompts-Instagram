@@ -1,0 +1,14 @@
+Transforme a pessoa da imagem de referência fictícia fornecida em um
+retrato corporativo profissional, mantendo o rosto, tom de pele e corte de
+cabelo exatamente como na referência — sem alterar a identidade visual da
+pessoa.
+
+Vista a pessoa com traje executivo alinhado (terno ou blazer), em pose de
+retrato profissional (postura ereta, olhar direto ou levemente lateral,
+expressão confiante e amigável). Use a referência de fundo fornecida
+(escritório desfocado, estúdio neutro ou ambiente corporativo) e ilumine de
+forma coerente com esse ambiente, estilo de fotografia de headshot
+corporativo.
+
+Enquadramento vertical 4:5, fotorrealista, alta resolução, sem texto ou
+logotipo sobreposto, sem marca d'água.

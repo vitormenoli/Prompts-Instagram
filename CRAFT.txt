@@ -1,0 +1,14 @@
+Transforme apenas o cenário ao redor da pessoa da foto de referência pessoal
+em um ambiente no estilo visual de Minecraft — blocos texturizados,
+iluminação pixelizada característica do jogo, elementos reconhecíveis (grama
+em blocos, árvores cúbicas, céu low-poly) — usando exatamente o cenário
+presente na imagem de referência de fundo fornecida.
+
+A pessoa deve permanecer completamente real e fotorrealista: não estilize o
+rosto, a pele, o cabelo ou a roupa, e não transforme a pessoa em blocos ou
+pixels em nenhuma hipótese — só o ambiente ao redor muda para o estilo do
+jogo, a pessoa continua exatamente como na foto original.
+
+Enquadramento vertical 4:5, alta resolução, sombras e iluminação coerentes
+entre a pessoa (real) e o cenário (estilizado), sem texto ou logotipo
+sobreposto, sem marca d'água.

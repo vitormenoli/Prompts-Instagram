@@ -1,0 +1,11 @@
+Transforme a pessoa da foto de referência pessoal em uma caricatura
+ilustrada, exagerando de forma bem-humorada os traços faciais mais
+marcantes (cabeça proporcionalmente maior, expressão acentuada, feições
+levemente ampliadas), mantendo o conjunto claramente reconhecível como a
+mesma pessoa — preserve o penteado, o tom de pele e o estilo de roupa da
+foto original.
+
+Use o estilo de ilustração (traço, cores e técnica) indicado na imagem de
+referência de estilo fornecida. Fundo simples e neutro, sem elementos
+extras de cenário, sem texto sobreposto, sem marca d'água, enquadramento
+vertical 4:5, alta resolução.

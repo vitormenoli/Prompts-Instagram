@@ -1,0 +1,12 @@
+Transforme a pessoa da imagem de referência fictícia fornecida em uma
+ilustração no estilo Studio Ghibli/anime clássico, mantendo as
+características faciais e o penteado reconhecíveis em relação à
+referência, mas adaptados ao traço de animação japonesa (cores suaves,
+contornos definidos, olhos expressivos no estilo do gênero).
+
+Use o cenário presente na imagem de referência de fundo fornecida (campo
+aberto, cidade à noite ou ambiente interno aconchegante), com iluminação e
+paleta de cores coerentes com a estética Ghibli.
+
+Enquadramento vertical 4:5, alta resolução, estilo de ilustração de
+animação (não fotorrealista), sem texto sobreposto, sem marca d'água.
